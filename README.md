@@ -4,7 +4,7 @@
 **Masters of Engineering, Computer Science (3.8 CGPA)	August 2023 - December 2024**
 University of Cincinnati, College of Engineering and Applied Science, Cincinnati, Ohio
 Coursework: Cloud Computing, Advance Algorithms, Operating System, Software Architecture, Data Encoding.
-**Bachelor of Engineering, Computer Science (3.39 CGPA)	June 2016 - June 2020
+**Bachelor of Engineering, Computer Science (3.39 CGPA)	June 2016 - June 2020++
 CMR Technical Campus, Hyderabad, India
 Coursework: Design and Analysis of Algorithms, Data Structures through C++, Artificial Intelligence, Web Technologies, Cryptography and Network Security, Database Management Systems, Software Engineering, Data Mining, and Internet of Things.
 
@@ -17,7 +17,8 @@ Coursework: Design and Analysis of Algorithms, Data Structures through C++, Arti
 - Reduced Jenkins job execution time by nearly 80% for pull requests, enhancing overall development efficiency.
 - Analyzed system logs on Linux and Windows servers, implemented measures reducing downtime by 20%, and collaborated with cross-functional teams to resolve Node.js, - - Angular, C#, and .NET build issues, increasing productivity by 15%.
 - Architected and released custom Google Cloud Platform add-ons from concept to production, facilitating comprehensive local testing; streamlined deployment process, saving the team 40 hours per month.
-- Software Development Engineer in Test, Planful, Hyderabad, India	June 2019 - May 2021
+  
+**Software Development Engineer in Test, Planful, Hyderabad, India	June 2019 - May 2021**
 - Developed comprehensive TestNG test cases and Test Plans using Java, Selenium, Cucumber,  Maven, SOAP API, JavaScript, Postman and SQL, covering the majority of application functionality, leading to a 20% reduction in post-release defects.
 - Implemented components for test cases following the Page Object Model (POM) in Java, resulting in a 50% reduction in test maintenance time. Demonstrated strong debugging skills in automation, swiftly identifying and resolving issues.
 - Reduced regression testing time by 60-70% through the implementation of parallel automation scripts.
@@ -25,6 +26,7 @@ Coursework: Design and Analysis of Algorithms, Data Structures through C++, Arti
 ## ACADEMIC PROJECTS
 **Stock Market Analysis(Web Scraping)	March 2020**
 - Led a team in developing a Python-based web application with the Flask framework for real-time stock tracking , utilizing libraries such as NumPy, Pandas, Scikit-Learn, Seaborn, Urllib, Beautifulsoup, and Matplotlib for data processing, analysis, and visualization.
+  
 **Warehouse Management System	November 2019**
 - Led a team in creating a web application using Java, Spring Boot, and MySQL for efficient warehouse information management.
 
