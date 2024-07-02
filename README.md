@@ -4,7 +4,7 @@
 **Masters of Engineering, Computer Science (3.8 CGPA)	August 2023 - December 2024**
 University of Cincinnati, College of Engineering and Applied Science, Cincinnati, Ohio
 Coursework: Cloud Computing, Advance Algorithms, Operating System, Software Architecture, Data Encoding.
-**Bachelor of Engineering, Computer Science (3.39 CGPA)	June 2016 - June 2020++
+**Bachelor of Engineering, Computer Science (3.39 CGPA)	June 2016 - June 2020**
 CMR Technical Campus, Hyderabad, India
 Coursework: Design and Analysis of Algorithms, Data Structures through C++, Artificial Intelligence, Web Technologies, Cryptography and Network Security, Database Management Systems, Software Engineering, Data Mining, and Internet of Things.
 
