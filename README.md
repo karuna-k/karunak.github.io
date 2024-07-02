@@ -1,20 +1,20 @@
 # karunak.github.io
 
 ## EDUCATION
--Masters of Engineering, Computer Science (3.8 CGPA)	August 2023 - December 2024
+**Masters of Engineering, Computer Science (3.8 CGPA)	August 2023 - December 2024
 University of Cincinnati, College of Engineering and Applied Science, Cincinnati, Ohio
 Coursework: Cloud Computing, Advance Algorithms, Operating System, Software Architecture, Data Encoding.
-Bachelor of Engineering, Computer Science (3.39 CGPA)	June 2016 - June 2020
--CMR Technical Campus, Hyderabad, India
+**Bachelor of Engineering, Computer Science (3.39 CGPA)	June 2016 - June 2020
+CMR Technical Campus, Hyderabad, India
 Coursework: Design and Analysis of Algorithms, Data Structures through C++, Artificial Intelligence, Web Technologies, Cryptography and Network Security, Database Management Systems, Software Engineering, Data Mining, and Internet of Things.
 
 ## EXPERIENCE
-Release Engineer, Planful, Hyderabad, India	June 2021 - July 2023
-Optimized CI/CD pipelines and build process leading to a nearly 40% decrease in deployment time by utilizing Jenkins, GIT, AWS, Chef, Docker, Kubernetes, Teamcity, Nexus Repository Management, and ensuring efficient code deployment.
-Developed tools using C# , .NET, REST API and Elasticsearch resulting in a 20% reduction in DB deployment time.
-Automated reverse merge process using Jenkins, Bash, and PowerShell script, resulting in a 50% reduction in manual effort.
-Automated Jenkins jobs for deployment status tracking with Python, integrated with Jenkins pipelines, enhancing efficiency.
-Reduced Jenkins job execution time by nearly 80% for pull requests, enhancing overall development efficiency.
+**Release Engineer, Planful, Hyderabad, India	June 2021 - July 2023
+- Optimized CI/CD pipelines and build process leading to a nearly 40% decrease in deployment time by utilizing Jenkins, GIT, AWS, Chef, Docker, Kubernetes, Teamcity, Nexus Repository Management, and ensuring efficient code deployment.
+- Developed tools using C# , .NET, REST API and Elasticsearch resulting in a 20% reduction in DB deployment time.
+- Automated reverse merge process using Jenkins, Bash, and PowerShell script, resulting in a 50% reduction in manual effort.
+- Automated Jenkins jobs for deployment status tracking with Python, integrated with Jenkins pipelines, enhancing efficiency.
+- Reduced Jenkins job execution time by nearly 80% for pull requests, enhancing overall development efficiency.
 Analyzed system logs on Linux and Windows servers, implemented measures reducing downtime by 20%, and collaborated with cross-functional teams to resolve Node.js, Angular, C#, and .NET build issues, increasing productivity by 15%.
 Architected and released custom Google Cloud Platform add-ons from concept to production, facilitating comprehensive local testing; streamlined deployment process, saving the team 40 hours per month.
 Software Development Engineer in Test, Planful, Hyderabad, India	June 2019 - May 2021
