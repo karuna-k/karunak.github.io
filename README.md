@@ -1,13 +1,14 @@
 # karunak.github.io
 
-EDUCATION
-Masters of Engineering, Computer Science (3.8 CGPA)	August 2023 - December 2024
+## EDUCATION
+-Masters of Engineering, Computer Science (3.8 CGPA)	August 2023 - December 2024
 University of Cincinnati, College of Engineering and Applied Science, Cincinnati, Ohio
 Coursework: Cloud Computing, Advance Algorithms, Operating System, Software Architecture, Data Encoding.
 Bachelor of Engineering, Computer Science (3.39 CGPA)	June 2016 - June 2020
-CMR Technical Campus, Hyderabad, India
+-CMR Technical Campus, Hyderabad, India
 Coursework: Design and Analysis of Algorithms, Data Structures through C++, Artificial Intelligence, Web Technologies, Cryptography and Network Security, Database Management Systems, Software Engineering, Data Mining, and Internet of Things.
-EXPERIENCE
+
+## EXPERIENCE
 Release Engineer, Planful, Hyderabad, India	June 2021 - July 2023
 Optimized CI/CD pipelines and build process leading to a nearly 40% decrease in deployment time by utilizing Jenkins, GIT, AWS, Chef, Docker, Kubernetes, Teamcity, Nexus Repository Management, and ensuring efficient code deployment.
 Developed tools using C# , .NET, REST API and Elasticsearch resulting in a 20% reduction in DB deployment time.
